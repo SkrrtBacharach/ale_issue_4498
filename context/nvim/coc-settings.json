@@ -1,0 +1,8 @@
+{
+    "diagnostic.displayByAle": true,
+    "signature.floatConfig": {"maxHeight": 30},
+    "jedi.completion.disableSnippets": true,
+    "ansible.builtin.force": "false",
+    "ansible.dev.serverPath": "/home/gw/.local/share/nvim/mason/bin/ansible-language-server",
+    "Lua.diagnostics.globals": ["vim"]
+}

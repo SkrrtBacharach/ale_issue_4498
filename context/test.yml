@@ -1,0 +1,9 @@
+# vim: ft=yaml.ansible
+---
+
+- name: "Test playbook"
+  hosts: localhost
+  tasks:
+    - name: "Aaa"
+      ansible.builtin.command:
+        wrong: "aaa"
